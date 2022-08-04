@@ -1,0 +1,4 @@
+[submodule "aisl"]
+	path = aisl
+	url = https://github.com/jasonsperske/aisl.git
+	branch = disable-ssl
